@@ -9,7 +9,7 @@
     <meta name="description" content="Details zur Feier in Düsseldorf - nur mit Passwort zugänglich!">
     <meta name="author" content="Ralf Schwoebel">
     <meta name="generator" content="manually">
-    <title>OCR50.de - jetzt erst recht!</title>
+    <title>OCR50.de - Geschenke!</title>
     <link rel="canonical" href="https://www.ocr50.de/">
     <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -71,7 +71,7 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.php">Startseite</a>
+              <a class="nav-link" aria-current="page" href="index.php">Startseite</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="location.php">Anfahrt</a>
@@ -83,7 +83,7 @@
                   <a class="nav-link" href="dresscode.php">Dresscode</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="geschenke.php">Geschenke</a>
+                  <a class="nav-link active" href="geschenke.php">Geschenke</a>
               </li>
           </ul>
         </div>
@@ -91,33 +91,18 @@
     </nav>
     <main class="container">
         <div class="bg-light p-5 rounded">
-            <img src="img/dancer.png" class="img-fluid float-end m-1" style="max-height: 300px;">
-            <h1>Es wird legend&auml;r!</h1>
+            <img src="img/wham.png" class="img-fluid float-end m-2" style="border: 1px solid #000000;">
+            <h1>Geschenke</h1>
             <p class="lead">
-                Oli, Christian und Ralf freuen sich auf Euch!
+                Wir sind wirklich froh, da&szlig; Ihr kommt und den Aufwand betreibt, mit uns zu feiern!
+                Deshalb ist KEIN zus&auml;tzliches Geschenk n&ouml;tig.
                 <BR><BR>
-                Am <B>03.06.2023</B> um 19.00 Uhr beginnt die (versp&auml;tete) Geburtstagsfeier zum 50ten in D&uuml;sseldorf.
+                Solltet Ihr trotzdem etwas mitbringen wollen, haben wir uns &uuml;berlegt, da&szlig; wir
+                alle 3 T-Shirtgr&ouml;sse "L" tragen und Ihr uns einen eigenen Spruch auf ein
+                T-Shirt drucken lassen k&ouml;nnt.
                 <BR><BR>
-                Weitere Infos (Parken, Anfahrt) findet Ihr hier: <a href="location.php" style="font-weight: bold;">Location &amp; Anfahrt</a>.
-                <BR><BR>
-                Wir haben f&uuml;r Essen, Trinken und Unterhaltung gesorgt. Das Rahmenprogramm findet ihr <a href="programm.php" style="font-weight: bold;">hier</a>.
-                <BR><BR>
-                Wir bitten alle G&auml;ste in 70er- oder 80er-Style zu erscheinen: <a href="dresscode.php" style="font-weight: bold;">Dresscode</a>!
-                <BR><BR>
-                Viele haben eine lange Anreise und Eure Anwesenheit ist Geschenk genug! Solltet Ihr uns doch etwas
-                schenken wollen: <a href="geschenke.php" style="font-weight: bold;">hier haben wir eine Idee</a> f&uuml;r Euch!
-                <BR><BR>
-                <B style="font-weight: bold;">
-                    Bitte sagt bis zum 10.05.2023 uns per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a> Bescheid,
-                    ob Ihr dabei seid und wie viele Ihr insgesamt mitbringt
-                </B>.
+                Wir sammeln alle Shirts und teilen sie zwischen uns 3 auf.
             </p>
-        </div>
-        <div class="row">
-            <div class="col-12 text-center mt-4">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/pIgZ7gMze7A?autoplay=1" title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="max-width: 512px;"></iframe>
-            </div>
         </div>
     </main>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

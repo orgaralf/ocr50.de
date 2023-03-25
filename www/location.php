@@ -9,7 +9,7 @@
     <meta name="description" content="Details zur Feier in Düsseldorf - nur mit Passwort zugänglich!">
     <meta name="author" content="Ralf Schwoebel">
     <meta name="generator" content="manually">
-    <title>OCR50.de - jetzt erst recht!</title>
+    <title>OCR50.de - Location!</title>
     <link rel="canonical" href="https://www.ocr50.de/">
     <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -71,10 +71,10 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.php">Startseite</a>
+              <a class="nav-link" aria-current="page" href="index.php">Startseite</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="location.php">Anfahrt</a>
+              <a class="nav-link active" href="location.php">Anfahrt</a>
             </li>
               <li class="nav-item">
                   <a class="nav-link" href="programm.php">Programm</a>
@@ -90,33 +90,34 @@
       </div>
     </nav>
     <main class="container">
-        <div class="bg-light p-5 rounded">
-            <img src="img/dancer.png" class="img-fluid float-end m-1" style="max-height: 300px;">
-            <h1>Es wird legend&auml;r!</h1>
-            <p class="lead">
-                Oli, Christian und Ralf freuen sich auf Euch!
-                <BR><BR>
-                Am <B>03.06.2023</B> um 19.00 Uhr beginnt die (versp&auml;tete) Geburtstagsfeier zum 50ten in D&uuml;sseldorf.
-                <BR><BR>
-                Weitere Infos (Parken, Anfahrt) findet Ihr hier: <a href="location.php" style="font-weight: bold;">Location &amp; Anfahrt</a>.
-                <BR><BR>
-                Wir haben f&uuml;r Essen, Trinken und Unterhaltung gesorgt. Das Rahmenprogramm findet ihr <a href="programm.php" style="font-weight: bold;">hier</a>.
-                <BR><BR>
-                Wir bitten alle G&auml;ste in 70er- oder 80er-Style zu erscheinen: <a href="dresscode.php" style="font-weight: bold;">Dresscode</a>!
-                <BR><BR>
-                Viele haben eine lange Anreise und Eure Anwesenheit ist Geschenk genug! Solltet Ihr uns doch etwas
-                schenken wollen: <a href="geschenke.php" style="font-weight: bold;">hier haben wir eine Idee</a> f&uuml;r Euch!
-                <BR><BR>
-                <B style="font-weight: bold;">
-                    Bitte sagt bis zum 10.05.2023 uns per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a> Bescheid,
-                    ob Ihr dabei seid und wie viele Ihr insgesamt mitbringt
-                </B>.
-            </p>
-        </div>
+            <div class="bg-light p-5 rounded">
+                <H1>Location &amp; Anfahrt</H1>
+                <p class="lead">
+                    Wir feiern ab 19.00 Uhr in der <a href="https://werft1.com/locations/plange-muehle-fuenf" target="_blank">Plange M&uuml;hle 5</a>,
+                    im D&uuml;sseldorfer Hafen.
+                    <BR><BR>
+                    Folgendes ist von Interesse:
+                    <UL>
+                        <LI><a href="https://goo.gl/maps/uWruxyE9urDB22Ri8" target="_blank">Google Maps Link</a> (neues Fenster)</LI>
+                        <LI>Die Location ist etwas ausserhalb, da man auf die "Halbinsel" rausfahren mu&szlig;</LI>
+                        <LI>Bis zum ersten Hotel im Mediahafen (Courtyard Marriot) w&auml;ren es 20+ Minuten zu Fu&szlig; (1,6 km), Taxi ist empfohlen</LI>
+                        <LI>Die Parktplätze sind beschrankt, Taxen können kostenlos ein- und ausfahren</LI>
+                    </UL>
+                </p>
+            </div>
         <div class="row">
-            <div class="col-12 text-center mt-4">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/pIgZ7gMze7A?autoplay=1" title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="max-width: 512px;"></iframe>
+            <div class="col-12 col-md-6 offset-md-3">
+                <img src="img/anfahrt.png" class="m-4 img-fluid">
+            </div>
+            <div class="col-12">
+                <H2>Hotels</H2>
+                <UL>
+                    <LI>Link-Liste auf <a href="https://de.hotels.com/Hotel-Search?adults=2&d1=2023-06-03&d2=2023-06-04&destination=Medienhafen%2C%20D%C3%BCsseldorf%2C%20North%20Rhine-Westphalia%2C%20Germany&endDate=2023-06-04&latLong=51.214008%2C6.750069&regionId=553248621532511266&selected=&semdtl=&sort=DISTANCE&star=30&star=40&star=50&startDate=2023-06-03&theme=&useRewards=true&userIntent=" target="_blank">Hotels.com</a></LI>
+                    <LI>Link-Liste auf <a href="https://www.hrs.de/list?location=*3542975&perimeter=30&orderBy=DistanceToDestination&startDateDay=3&startDateMonth=6&startDateYear=2023&endDateDay=4&endDateMonth=6&endDateYear=2023&language=de&currency=EUR&rooms=1&numberOfAdults%5B0%5D=2&type%5B0%5D=DOUBLEROOM&adults=2&children=0&singleRooms=0&doubleRooms=1" target="_blank">HRS.de</a></LI>
+                </UL>
+                <H2>Taxi</H2>
+                Telefon: 02 11 / 21 21 21 - Rhein-Taxi<BR>
+                oder mit FreeNow (und &auml;hnlichen Apps).
             </div>
         </div>
     </main>

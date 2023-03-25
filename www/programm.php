@@ -9,7 +9,7 @@
     <meta name="description" content="Details zur Feier in Düsseldorf - nur mit Passwort zugänglich!">
     <meta name="author" content="Ralf Schwoebel">
     <meta name="generator" content="manually">
-    <title>OCR50.de - jetzt erst recht!</title>
+    <title>OCR50.de - Programm</title>
     <link rel="canonical" href="https://www.ocr50.de/">
     <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -71,13 +71,13 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.php">Startseite</a>
+              <a class="nav-link" aria-current="page" href="index.php">Startseite</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="location.php">Anfahrt</a>
             </li>
               <li class="nav-item">
-                  <a class="nav-link" href="programm.php">Programm</a>
+                  <a class="nav-link active" href="programm.php">Programm</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="dresscode.php">Dresscode</a>
@@ -90,33 +90,21 @@
       </div>
     </nav>
     <main class="container">
-        <div class="bg-light p-5 rounded">
-            <img src="img/dancer.png" class="img-fluid float-end m-1" style="max-height: 300px;">
-            <h1>Es wird legend&auml;r!</h1>
-            <p class="lead">
-                Oli, Christian und Ralf freuen sich auf Euch!
-                <BR><BR>
-                Am <B>03.06.2023</B> um 19.00 Uhr beginnt die (versp&auml;tete) Geburtstagsfeier zum 50ten in D&uuml;sseldorf.
-                <BR><BR>
-                Weitere Infos (Parken, Anfahrt) findet Ihr hier: <a href="location.php" style="font-weight: bold;">Location &amp; Anfahrt</a>.
-                <BR><BR>
-                Wir haben f&uuml;r Essen, Trinken und Unterhaltung gesorgt. Das Rahmenprogramm findet ihr <a href="programm.php" style="font-weight: bold;">hier</a>.
-                <BR><BR>
-                Wir bitten alle G&auml;ste in 70er- oder 80er-Style zu erscheinen: <a href="dresscode.php" style="font-weight: bold;">Dresscode</a>!
-                <BR><BR>
-                Viele haben eine lange Anreise und Eure Anwesenheit ist Geschenk genug! Solltet Ihr uns doch etwas
-                schenken wollen: <a href="geschenke.php" style="font-weight: bold;">hier haben wir eine Idee</a> f&uuml;r Euch!
-                <BR><BR>
-                <B style="font-weight: bold;">
-                    Bitte sagt bis zum 10.05.2023 uns per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a> Bescheid,
-                    ob Ihr dabei seid und wie viele Ihr insgesamt mitbringt
-                </B>.
-            </p>
-        </div>
         <div class="row">
-            <div class="col-12 text-center mt-4">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/pIgZ7gMze7A?autoplay=1" title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="max-width: 512px;"></iframe>
+            <div class="bg-light p-5 rounded">
+                <H1>Rahmenprogramm</H1>
+                <img src="img/roller.png" class="float-end img-fluid">
+                <p class="lead">
+                    <UL>
+                        <LI class="p-2"><B>19:00 Uhr</B> Ankommen, Snacks, Drinks, Sundowner Live-Musik</LI>
+                        <LI class="p-2"><B>ca. 20:00 Uhr</B> Willkommensgru&szlig von Oli, Chris und Ralf</LI>
+                        <LI class="p-2"><B>ca. 20:15 Uhr</B> Abendessen</LI>
+                        <LI class="p-2"><B>ca. 22:00 Uhr</B> Live-Musik, Tanzen</LI>
+                        <LI class="p-2"><B>ca. 23:30 Uhr</B> DJ, Tanzen</LI>
+                    </UL>
+                    Es gibt ein paar Photo-Momente. Die Bilder sammeln wir im Nachgang hier auf der Site.
+                    Bitte denkt an den <a href="dresscode.php">Dresscode</a>, damit wir alle was zu Schauen haben.
+                </p>
             </div>
         </div>
     </main>
