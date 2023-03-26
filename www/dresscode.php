@@ -102,8 +102,8 @@
             </p>
         </div>
         <div class="row">
-            <div class="col-12 offset-md-3 col-md-6 text-center mt-4">
-                <img src="img/70s.png" class="img-fluid">
+            <div class="col-12 offset-md-2 col-md-8 text-center mt-4">
+                <img src="img/70s.jpg?v=1" class="img-fluid">
             </div>
         </div>
     </main>
