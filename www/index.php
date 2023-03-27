@@ -111,6 +111,8 @@
                     Bitte sagt bis zum 10.05.2023 uns per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a> Bescheid,
                     ob Ihr dabei seid und ob Ihr alleine oder in Begleitung kommt.
                 </B>.
+                <BR><BR>
+                <a href="assets/calendar.msg" class="btn btn-sm btn-success">Outlook Eintrag Download</a>
             </p>
         </div>
         <div class="row">
