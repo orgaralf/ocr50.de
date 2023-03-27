@@ -101,14 +101,11 @@
                         <LI><a href="https://goo.gl/maps/uWruxyE9urDB22Ri8" target="_blank">Google Maps Link</a> (neues Fenster)</LI>
                         <LI>Die Location ist etwas ausserhalb, da man auf die "Halbinsel" rausfahren mu&szlig;</LI>
                         <LI>Bis zum ersten Hotel im Mediahafen (Courtyard Marriot) w&auml;ren es 20+ Minuten zu Fu&szlig; (1,6 km), Taxi ist empfohlen</LI>
-                        <LI>Die Parktplätze sind beschrankt, Taxen können kostenlos ein- und ausfahren</LI>
+                        <LI>Die Parkplätze sind beschrankt, Taxen können kostenlos ein- und ausfahren</LI>
                     </UL>
                 </p>
             </div>
         <div class="row">
-            <div class="col-12 col-md-6 offset-md-3">
-                <img src="img/anfahrt.png" class="m-4 img-fluid">
-            </div>
             <div class="col-12">
                 <H2>Hotels</H2>
                 <UL>

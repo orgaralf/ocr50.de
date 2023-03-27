@@ -96,7 +96,7 @@
             <p class="lead">
                 Oli, Christian und Ralf freuen sich auf Euch!
                 <BR><BR>
-                Am <B>03.06.2023</B> um 19.00 Uhr beginnt die (versp&auml;tete) Geburtstagsfeier zum 50ten in D&uuml;sseldorf.
+                Am <B>03.06.2023</B> um 19.00 Uhr beginnt die (versp&auml;tete) Geburtstagsfeier zum 50sten in D&uuml;sseldorf.
                 <BR><BR>
                 Weitere Infos (Parken, Anfahrt) findet Ihr hier: <a href="location.php" style="font-weight: bold;">Location &amp; Anfahrt</a>.
                 <BR><BR>
@@ -109,7 +109,7 @@
                 <BR><BR>
                 <B style="font-weight: bold;">
                     Bitte sagt bis zum 10.05.2023 uns per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a> Bescheid,
-                    ob Ihr dabei seid und wie viele Ihr insgesamt mitbringt
+                    ob Ihr dabei seid und ob Ihr alleine oder in Begleitung kommt.
                 </B>.
             </p>
         </div>
