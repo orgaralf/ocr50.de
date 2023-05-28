@@ -108,16 +108,21 @@
                 schenken wollen: <a href="geschenke.php" style="font-weight: bold;">hier haben wir eine Idee</a> f&uuml;r Euch!
                 <BR><BR>
                 <B style="font-weight: bold;">
-                    Bitte sagt bis zum 10.05.2023 uns per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a> Bescheid,
-                    ob Ihr dabei seid und ob Ihr alleine oder in Begleitung kommt.
+                    Gibt es ein Update? Bitte per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a>...
                 </B>.
+                <BR><BR>
+                <B>Update 27.5. - Es haben knapp 190 Freunde und Verwandte zugesagt!</B>
+                <BR><BR>
+                <B style="font-weight: bold;">Photos bitte (gefiltert, jeder kann hier reinschauen - macht am Besten einen Ordner mit Eurem Namen):
+                    <a href="https://www.dropbox.com/scl/fo/w8n7xzqbp670wlaagrhvv/h?dl=0&rlkey=9ixk5vygrvbeveavu0i04k3zb" target="_blank">HIER HOCHLADEN</a>.</B>
                 <BR><BR>
                 <a href="assets/calendar.msg" class="btn btn-sm btn-success">Outlook Eintrag Download</a>
             </p>
         </div>
+        <!-- forever young: t1TcDHrkQYg -->
         <div class="row">
             <div class="col-12 text-center mt-4">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/pIgZ7gMze7A?autoplay=1" title="YouTube video player" frameborder="0"
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/PeMvMNpvB5M?autoplay=1" title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="max-width: 512px;"></iframe>
             </div>
         </div>
