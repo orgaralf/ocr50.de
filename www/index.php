@@ -117,6 +117,9 @@
                     <a href="https://www.dropbox.com/scl/fo/w8n7xzqbp670wlaagrhvv/h?dl=0&rlkey=9ixk5vygrvbeveavu0i04k3zb" target="_blank">HIER HOCHLADEN</a>.</B>
                 <BR><BR>
                 <a href="assets/calendar.msg" class="btn btn-sm btn-success">Outlook Eintrag Download</a>
+                <BR><BR>
+                <B>Tipp für alle Anreisenden:</B> Am nächsten Sonntag findet der <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">LEGENDÄRE Fischmarkt</a> statt
+                und es kann weiter gefeiert werden ;-).
             </p>
         </div>
         <!-- forever young: t1TcDHrkQYg -->

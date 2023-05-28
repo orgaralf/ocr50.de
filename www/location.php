@@ -103,18 +103,16 @@
                         <LI>Bis zum ersten Hotel im Mediahafen (Courtyard Marriot) w&auml;ren es 20+ Minuten zu Fu&szlig; (1,6 km), Taxi ist empfohlen</LI>
                         <LI>Die Parkplätze sind beschrankt, Taxen können kostenlos ein- und ausfahren</LI>
                     </UL>
+                    <BR><BR>
+                    <H2>Hotels</H2>
+                    <UL>
+                        <LI>Link-Liste auf <a href="https://de.hotels.com/Hotel-Search?adults=2&d1=2023-06-03&d2=2023-06-04&destination=Medienhafen%2C%20D%C3%BCsseldorf%2C%20North%20Rhine-Westphalia%2C%20Germany&endDate=2023-06-04&latLong=51.214008%2C6.750069&regionId=553248621532511266&selected=&semdtl=&sort=DISTANCE&star=30&star=40&star=50&startDate=2023-06-03&theme=&useRewards=true&userIntent=" target="_blank">Hotels.com</a></LI>
+                        <LI>Link-Liste auf <a href="https://www.hrs.de/list?location=*3542975&perimeter=30&orderBy=DistanceToDestination&startDateDay=3&startDateMonth=6&startDateYear=2023&endDateDay=4&endDateMonth=6&endDateYear=2023&language=de&currency=EUR&rooms=1&numberOfAdults%5B0%5D=2&type%5B0%5D=DOUBLEROOM&adults=2&children=0&singleRooms=0&doubleRooms=1" target="_blank">HRS.de</a></LI>
+                    </UL>
+                    <H2>Taxi</H2>
+                    Telefon: 02 11 / 21 21 21 - Rhein-Taxi<BR>
+                    oder mit FreeNow (und &auml;hnlichen Apps).
                 </p>
-            </div>
-        <div class="row">
-            <div class="col-12">
-                <H2>Hotels</H2>
-                <UL>
-                    <LI>Link-Liste auf <a href="https://de.hotels.com/Hotel-Search?adults=2&d1=2023-06-03&d2=2023-06-04&destination=Medienhafen%2C%20D%C3%BCsseldorf%2C%20North%20Rhine-Westphalia%2C%20Germany&endDate=2023-06-04&latLong=51.214008%2C6.750069&regionId=553248621532511266&selected=&semdtl=&sort=DISTANCE&star=30&star=40&star=50&startDate=2023-06-03&theme=&useRewards=true&userIntent=" target="_blank">Hotels.com</a></LI>
-                    <LI>Link-Liste auf <a href="https://www.hrs.de/list?location=*3542975&perimeter=30&orderBy=DistanceToDestination&startDateDay=3&startDateMonth=6&startDateYear=2023&endDateDay=4&endDateMonth=6&endDateYear=2023&language=de&currency=EUR&rooms=1&numberOfAdults%5B0%5D=2&type%5B0%5D=DOUBLEROOM&adults=2&children=0&singleRooms=0&doubleRooms=1" target="_blank">HRS.de</a></LI>
-                </UL>
-                <H2>Taxi</H2>
-                Telefon: 02 11 / 21 21 21 - Rhein-Taxi<BR>
-                oder mit FreeNow (und &auml;hnlichen Apps).
             </div>
         </div>
     </main>
