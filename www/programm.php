@@ -104,8 +104,8 @@
                 <H1>Rahmenprogramm</H1>
                 <img src="img/roller.png" class="float-end img-fluid">
                 <p class="lead">
-                    <UL>
-                        <LI class="p-2">
+                    <UL class="lead">
+                        <LI class="p-2 lead">
                             <B>19:00 Uhr</B> Ankommen, Snacks, Drinks, Sundowner Live-Musik<BR>
                             Diverse "Snacks" im Glas und ein Willkommensdrink. Kommt an, kommt runter, fühlt Euch willkommen!
                             <BR>
@@ -116,30 +116,53 @@
                             &middot; Wraps ala Salat Nicoise<BR>
                             &middot; Quiche mit mediteranem Gemüse<BR>
                         </LI>
-                        <LI class="p-2">
+                        <LI class="p-2 lead">
                             <B>ca. 20:00 Uhr</B> Willkommensgru&szlig von Oli, Chris und Ralf<BR>
                             (noch ein Gedicht)
                         </LI>
-                        <LI class="p-2">
+                        <LI class="p-2 lead">
                             <B>ca. 20:15 Uhr</B> Abendessen<BR>
                             Die <a href="https://www.google.com/search?q=wetter+d%C3%BCsseldorf" target="_blank">Wettermeldung</a> sieht gut aus, wir haben Grillstationen aufgestellt:<BR>
                             &middot; Brot mit Kürbisaioli & Butter<BR>
                             &middot; Argentinisches Rumpsteak | Lammkotelets | Maishähnchen | Merguez-Bratwurst<BR>
                             &middot; Gemüse Halumi Spieß | Lachstranche in Kräuteröl confiert<BR>
-                            &middot; gewürzte Drillinge mit Rosmarin | grüner Spargel vom Grill | Wassermelone-Feta-Gurkensalat Asiatischer Brokkoli-Salat | Maiskolben | Quinoa-Ofenpaprikasalat | Reisnudelsalat mit Curry<BR>
+                            &middot; gewürzte Drillinge mit Rosmarin | grüner Spargel vom Grill | Wassermelone-Feta-Gurkensalat | Asiatischer Brokkoli-Salat | Maiskolben | Quinoa-Ofenpaprikasalat | Reisnudelsalat mit Curry<BR>
                             &middot; BBQ-Sauce, Sauce Mojo, Mango-Curry-Quark<BR>
                         </LI>
-                        <LI class="p-2">
-                            <B>ca. 22:00 Uhr</B> Show-Act, Live-Musik, Tanzen<BR>
+                        <LI class="p-2 lead">
+                            <B>ca. 22:00 Uhr</B> Live-Musik von IvaMusic.com<BR>
                             Wir machen uns warm für die Nacht. Photo-Sessions.
                         </LI>
-                        <LI class="p-2"><B>ca. 23:30 Uhr</B> DJ, Tanzen</LI>
+                        <LI class="p-2 lead">
+                            <B>ca. 23:30 Uhr</B> Show-Act, DJ, Tanzen<BR>
+                            Achtung: es ist Programm bis 3.00 Uhr. Inklusive 3 Show-Acts. Teilt Eure Kräfte ein ;-)<BR>
+                            Um <B>Mitternacht</B> gibt es nochmal einen kleinen Snack (Currywurst).
+                        </LI>
                     </UL>
-                    Es gibt ein paar Photo-Momente. Die Bilder sammeln wir im Nachgang hier auf der Site.
-                    Bitte denkt an den <a href="dresscode.php">Dresscode</a>, damit wir alle was zu Schauen haben.
+                    <B>Es gibt ein paar Foto-Momente. Die Bilder sammeln wir im Nachgang hier auf der Site.
+                        Bitte denkt an den <a href="dresscode.php">Dresscode</a>, damit wir alle was zu Schauen haben.</B>
+                </p>
+                <p class="lead">
+                    <B>Sonntag:</B><BR>
+                    Angereiste Freunde und Verwandte stimmen sich mit den jeweiligen Geburtstagskindern zum Frühstück ab.
+                    Von Kater-Frühstück im Muggel bis Brunch am Rhein haben wir schon Einiges gehört.
+                    <BR><BR>
+                    <B>Ab ca. 14.00 Uhr</B> finden sich einige auf dem <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">Fischmarkt</a>,
+                    um die Sonne zu geniessen. Ralf findet sich wahrscheinlich <a href="https://goo.gl/maps/Qo5ShYUTwNJCRm5Q7" target="_blank">hier</a>.
                 </p>
             </div>
         </div>
+        <div class="row">
+            <div class="col-12 text-center mt-4">
+                Düsseldorf ist Heimatstadt von Kraftwerk und Beuys, von Altbier und der längsten Theke der Welt in der Altstadt.
+                <BR><BR>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/YHaZ3UL2oHk?autoplay=1" title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="max-width: 512px;"></iframe>
+                <BR><BR>
+
+            </div>
+        </div>
+
     </main>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
   </body>
