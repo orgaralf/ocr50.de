@@ -112,6 +112,10 @@
                     <H2>Taxi</H2>
                     Telefon: 02 11 / 21 21 21 - Rhein-Taxi<BR>
                     oder mit FreeNow (und &auml;hnlichen Apps).
+                    <BR><BR>
+                    <B>Tipp für alle Anreisenden:</B> Am nächsten Sonntag findet der <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">LEGENDÄRE Fischmarkt</a> statt
+                    und es kann weiter gefeiert werden ;-).
+                    <BR>
                 </p>
             </div>
         </div>
