@@ -111,14 +111,12 @@
                     Gibt es ein Update? Bitte per E-Mail an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a>...
                 </B>.
                 <BR><BR>
-                <B>Update 27.5. - Es haben knapp 190 Freunde und Verwandte zugesagt!</B>
-                <BR><BR>
                 <B style="font-weight: bold;">Photos bitte (gefiltert, jeder kann hier reinschauen - macht am Besten einen Ordner mit Eurem Namen):
                     <a href="https://www.dropbox.com/scl/fo/w8n7xzqbp670wlaagrhvv/h?dl=0&rlkey=9ixk5vygrvbeveavu0i04k3zb" target="_blank">HIER HOCHLADEN</a>.</B>
                 <BR><BR>
                 <a href="assets/calendar.msg" class="btn btn-sm btn-success">Outlook Eintrag Download</a>
                 <BR><BR>
-                <B>Tipp für alle Anreisenden:</B> Am nächsten Sonntag findet der <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">LEGENDÄRE Fischmarkt</a> statt
+                <B>Tipp für alle Anreisenden:</B> Am nächsten Sonntag findet der <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">gro&szlig;artige Fischmarkt</a> statt
                 und es kann weiter gefeiert werden ;-).
             </p>
         </div>
