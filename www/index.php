@@ -116,7 +116,7 @@
                 <BR><BR>
                 <a href="assets/calendar.msg" class="btn btn-sm btn-success">Outlook Eintrag Download</a>
                 <BR><BR>
-                <B>Tipp für alle Anreisenden:</B> Am nächsten Sonntag findet der <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">LEGENDÄRE Fischmarkt</a> statt
+                <B>Tipp für alle Anreisenden:</B> Am nächsten Sonntag findet der <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">gro&szlig;artige Fischmarkt</a> statt
                 und es kann weiter gefeiert werden ;-).
             </p>
         </div>
