@@ -121,7 +121,10 @@
                 </B>.
                 <BR><BR>
                 <B style="font-weight: bold;">Photos bitte (gefiltert, jeder kann hier reinschauen - macht am Besten einen Ordner mit Eurem Namen):
-                    <a href="https://www.dropbox.com/scl/fo/w8n7xzqbp670wlaagrhvv/h?dl=0&rlkey=9ixk5vygrvbeveavu0i04k3zb" target="_blank">HIER HOCHLADEN</a>.</B>
+                    <a href="https://www.dropbox.com/scl/fo/w8n7xzqbp670wlaagrhvv/h?dl=0&rlkey=9ixk5vygrvbeveavu0i04k3zb" target="_blank">HIER HOCHLADEN (Dropbox)</a>.
+                    Wer eigene Clouds verwendet: bitte schickt uns einen Link an <a href="mailto:die3@ocr50.de?subject=50er%2FRVSP">die3@ocr50.de</a> und wir
+                    kopieren die Dateien in die Dropbox.
+                </B>
                 <BR><BR>
                 <a href="assets/calendar.msg" class="btn btn-sm btn-success">Outlook Eintrag Download</a>
                 <BR><BR>

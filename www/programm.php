@@ -147,7 +147,7 @@
                     Angereiste Freunde und Verwandte stimmen sich mit den jeweiligen Geburtstagskindern zum Frühstück ab.
                     Von Kater-Frühstück im Muggel bis Brunch am Rhein haben wir schon Einiges gehört.
                     <BR><BR>
-                    <B>Ab ca. 14.00 Uhr</B> finden sich einige auf dem <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">Fischmarkt</a>,
+                    <B>Ab ca. 14.00 Uhr</B> finden sich Einige auf dem <a href="https://www.rheinlust.de/veranstaltungen-2/dusseldorf/" target="_blank">Fischmarkt</a>,
                     um die Sonne zu geniessen. Ralf findet sich wahrscheinlich <a href="https://goo.gl/maps/Qo5ShYUTwNJCRm5Q7" target="_blank">hier</a>.
                 </p>
             </div>
